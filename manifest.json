@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "BZZ.CH Directlinks",
+    "version": "1.0",
+    "description": "Fügt die Direktlinks zu Stundenplan und Intranet hinzu",
+    "content_scripts": [
+      {
+        "matches": ["*://*.bzz.ch/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
