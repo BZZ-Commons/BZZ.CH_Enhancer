@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "BZZ.CH Directlinks",
+    "name": "BZZ.CH Enhancer",
     "version": "1.0",
     "description": "Fügt die Direktlinks zu Stundenplan und Intranet hinzu",
     "content_scripts": [

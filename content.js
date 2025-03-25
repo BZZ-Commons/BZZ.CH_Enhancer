@@ -8,7 +8,6 @@
 
     const headerElement = document.querySelector('.header-element');
     if (!headerElement) {
-        console.error("Header element not found.");
         return; // Exit if the element is not found
     }
 
